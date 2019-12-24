@@ -1,24 +1,24 @@
 {
-  "version": "1.0.1",
-  "name": "nl.x-services.plugins.backgroundaudio",
-  "cordova_name": "BackgroundAudio",
-  "description": "Allows your app to keep on playing audio when it's in the background.",
+  "version": "1.0.0",
+  "name": "cordova-plugin-ambientaudio",
+  "cordova_name": "AmbientAudio",
+  "description": "Sets audio session category to ambient.",
   "license": "MIT",
-  "author": "Eddy Verbruggen <eddyverbruggen@gmail.com> (https://github.com/EddyVerbruggen)",
+  "author": "Jonas Meier <jonas.meier1212@gmail.com> (https://github.com/EddyVerbruggen)",
   "cordova": {
-    "id": "nl.x-services.plugins.backgroundaudio",
+    "id": "cordova-plguin-ambientaudo",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EddyVerbruggen/cordova-plugin-backgroundaudio.git"
+    "url": "git+https://github.com/jonasmeier1212/cordova-plugin-ambientaudio"
   },
   "keywords": [
     "cordova",
     "ios",
-    "background",
+    "ambient",
     "audio"
   ]
 }
